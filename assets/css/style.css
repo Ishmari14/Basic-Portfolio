@@ -61,31 +61,31 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-	background: #F06060;
+	background: rgb(33, 0, 216);
 }
 
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 20%;
-	background: #FA987D;
+	background: rgb(6, 230, 218);
 }
 
 .bl-main > section:nth-child(3) {
 	top: 0;
 	left: 40%;
-	background: #72CCA7;
+	background: rgb(233, 19, 126);
 }
 
 .bl-main > section:nth-child(4) {
 	top: 0%;
 	left: 60%;
-	background: #10A296;
+	background: rgb(182, 245, 11);
 }
 
 .bl-main > section:nth-child(5) {
 	top: 0%;
 	left: 80%;
-	background: #FA987D;
+	background: rgb(221, 98, 15);
 }
 
 .bl-main > section:nth-child(6) {
@@ -391,16 +391,16 @@ div.bl-panel-items > div.bl-hide-current-work {
 }
 
 .bl-main > section:first-child.bl-expand {
-	background: #EE4444;
+	background: 33, 0, 216;
 }
 .bl-main > section:nth-child(2).bl-expand {
-	background: #F98262;
+	background: 6, 230, 218;
 }
 .bl-main > section:nth-child(3).bl-expand {
-	background: #4BBE8E;
+	background: 6, 230, 218;
 }
 .bl-main > section:nth-child(4).bl-expand {
-	background: #0D8278;
+	background: 221, 98, 15;
 }
 
 .bl-main.bl-expand-item > section:not(.bl-expand),
