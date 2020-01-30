@@ -438,6 +438,10 @@ section.bl-expand .bl-box {
 	transform: translateY(-15px);
 }
 
+li {
+	font-size: 30px;
+}
+
 .bl-content,
 .bl-icon-close {
 	-webkit-transition: opacity 0.1s linear 0s;
